@@ -1,0 +1,9 @@
+req -> something that we have received   from the clients
+res -> something that we are sending it.
+
+
+They have head and body
+
+heade ---- have meta data kind of information like what is status code
+
+body ----- content like html or whole page 
